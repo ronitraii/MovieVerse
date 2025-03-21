@@ -1,0 +1,4 @@
+# Ignore IDE and build files
+.idea/
+*.iml
+out/
